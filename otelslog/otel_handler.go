@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	instrumentationName = "github.com/agoda-com/otelslog"
+	instrumentationName = "github.com/chameleon82/go-modules-test/otelslog"
 )
 
 // OtelHandler is a Handler that writes Records to OTLP

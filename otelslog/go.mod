@@ -1,4 +1,4 @@
-module github.com/agoda-com/otelslog
+module github.com/chameleon82/go-modules-test/otelslog
 
 go 1.21
 
